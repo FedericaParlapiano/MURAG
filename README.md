@@ -4,7 +4,7 @@
 <img src="./images/MURAG_gemini.png" data-canonical-src="./images/MURAG_gemini.png" width="600" height="600" align="center" />
 </p>
 
-> **Official repository for the paper:** *Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs* (Under Review).
+> **Official repository for the paper:**Local-to-Global Retrieval for Language-Aware Multilingual Retrieval-Augmented Generation** (Under Review).
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
