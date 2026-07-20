@@ -1,0 +1,8 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu   # or faiss-gpu
+openai
+nltk
+numpy
+python-dotenv
