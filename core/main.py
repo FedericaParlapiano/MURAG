@@ -30,7 +30,6 @@ async def main():
     with open("tutte_le_risposte.json", 'w', encoding='utf-8') as f:
         json.dump(risultati_totali, f, indent=4, ensure_ascii=False)
     
-    print("=== RISPOSTA FINALE ===")
     print(risultato["answer"])
 
 if __name__ == "__main__":
