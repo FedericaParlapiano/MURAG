@@ -16,9 +16,9 @@
 - [Main Features](#main-features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#-usage)
-  - [1. Build the Index](#1-build-the-index)
-  - [2. Run Evaluation](#2-run-evaluation)
+- [Usage](#usage)
+  - [1. Build the Index](#1build-index)
+  - [2. Run Evaluation](#2run-evaluation)
 - [Citation](#-citation)
 
 ## Description 
@@ -53,6 +53,7 @@ MURAG/
 ## Installation
 ```
 
+## Installation
 1. Clone the repository
 ```bash
 git clone [https://github.com/FedericaParlapiano/MURAG.git](https://github.com/FedericaParlapiano/MURAG.git)
