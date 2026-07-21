@@ -17,7 +17,7 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Citation](#-citation)
+- [Citation](#citation)
 
 ## Description 
 **MURAG** is a multilingual Graph-based Retrieval-Augmented Generation pipeline, through a "Thought-Search-Observation" approach and Cross-Encoder for reranking. It allows users to query a multilingual document base and receive reasoned answers.
