@@ -13,9 +13,9 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Main Features](#-main-features)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
+- [Main Features](#main-features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
 - [Usage](#-usage)
   - [1. Build the Index](#1-build-the-index)
   - [2. Run Evaluation](#2-run-evaluation)
