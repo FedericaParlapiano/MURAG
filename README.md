@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/status-Under_Review-orange.svg)
 
 ## Table of Contents
-- [Description](#-description)
+- [Description](#description)
 - [Main Features](#-main-features)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
@@ -21,7 +21,7 @@
   - [2. Run Evaluation](#2-run-evaluation)
 - [Citation](#-citation)
 
-## Description (#-description)
+## Description 
 **MURAG** is a multilingual Graph-based Retrieval-Augmented Generation pipeline, through a "Thought-Search-Observation" approach and Cross-Encoder for reranking. It allows users to query a multilingual document base and receive reasoned answers.
 
 ## Main Features
