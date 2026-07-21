@@ -17,8 +17,6 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [1. Build the Index](#1build-index)
-  - [2. Run Evaluation](#2run-evaluation)
 - [Citation](#-citation)
 
 ## Description 
